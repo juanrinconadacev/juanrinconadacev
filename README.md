@@ -1,1 +1,1 @@
-Hi, I’m Juan Rinconada. Android and iOS teacher!
+Hola soy Juan. Profesor de iOS y Android
