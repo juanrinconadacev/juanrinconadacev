@@ -1,1 +1,6 @@
-Hola soy Juan. Profesor de iOS y Android
+# 💾 Profe Juan 
+Profesor de:
+- *Java*
+- *Swift*
+- *iOS*
+- *Android*
